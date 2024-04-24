@@ -15,7 +15,7 @@ Purpose:
    the file date/time might change, since by design the EFIX date remains correct.
 
 How to use:
--Copy(part of) pictures from iCloud Photos to c:\copyOfiCloudPhotos
+- Copy(part of) pictures from iCloud Photos to c:\copyOfiCloudPhotos
 - ApplePicMaestro.exe < path with pictures>
   Its output is in subfolders:
   - \output(see 1)
