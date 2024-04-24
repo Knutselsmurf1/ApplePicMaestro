@@ -5,7 +5,7 @@ Purpose:
 3. Group other pictures/movies, for example iPhone most assumable has collected from WhatsApp
 4. Give all pictures/movies as prefix the date/time stamp in which the pictures/movies are taken
    However in case EFIX date does not exist, then date/time stamp in which the pictures/movies are last modified
-5. Correct as far as possible wrong suspicious date/time stamp for .mov files, depending on the EFIX time of last valid picture
+5. Correct as far as possible wrong suspicious date/time stamp for .mov files, depending on the EFIX time of last valid picture. 
    Unfortunately meta data (basically not EFIX) of .mov files basically does not contain a (valid) taken date.
    Also the last modified date/time of file itself (and which for example also Windows Photos uses to sort movies) could
    be invalid especially if directly copying from https://www.icloud.com/photos/.
@@ -16,7 +16,7 @@ Purpose:
 
 How to use:
 - Copy(part of) pictures from iCloud Photos to c:\copyOfiCloudPhotos
-- ApplePicMaestro.exe < path with pictures>
+- ApplePicMaestro.exe 'path with pictures'
   Its output is in subfolders:
   - \output(see 1)
   - \anotherbrand(see 2)
