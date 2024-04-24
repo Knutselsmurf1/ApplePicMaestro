@@ -1,5 +1,5 @@
 # ApplePicMaestro
-Purpose:
+Application for PC with the following purpose:
 1. Group only the pictures/movies taken by iPhone
 2. Group only the pictures/movies imported by iPhone for example by USB cable
 3. Group other pictures/movies, for example iPhone most assumable has collected from WhatsApp
@@ -15,9 +15,9 @@ Purpose:
    the file date/time might change, since by design the EFIX date remains correct.
 
 How to use:
-- Copy(part of) pictures from iCloud Photos to c:\copyOfiCloudPhotos
-- ApplePicMaestro.exe 'path with pictures'
+- Copy (part of) pictures from iCloud Photos to c:\copyOfiCloudPhotos
+- Start ApplePicMaestro.exe 'path with pictures'. 
   Its output is in subfolders:
-  - \output(see 1)
-  - \anotherbrand(see 2)
-  - \unknown(see 3)
+  - \output (see 1)
+  - \anotherbrand (see 2)
+  - \unknown (see 3)
